@@ -1,5 +1,5 @@
 {
-  "name": "Check_sport_news",
+  "name": "Check sport news",
   "projectId": "8ee3d951-96c1-4768-b80f-676e76b1ad7b",
   "description": "Read my favorite news channels and notify me for favorite topics",
   "main": "Main.xaml",
@@ -51,7 +51,6 @@
         "fileName": "TestCase_1.xaml"
       }
     ],
-    "modernBehavior": true,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
