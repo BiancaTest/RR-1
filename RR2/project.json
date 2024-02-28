@@ -1,7 +1,7 @@
 {
-    "name": "RR-1",
+    "name": "RR-2",
     "projectId": "468f8892-eb06-4c71-8083-bf16ce140f96",
-    "description": null,
+    "description": "rr",
     "main": "Main.xaml",
     "dependencies": {
       "UiPath.Excel.Activities": "[2.22.0-preview]",
